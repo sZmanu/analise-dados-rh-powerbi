@@ -16,9 +16,7 @@ Desenvolver um dashboard interativo para análise estratégica de dados do setor
 
 ---
 
-# 📌 Indicadores Desenvolvidos
-
-## 👥 Visão Geral da Empresa
+## 📌 Indicadores Desenvolvidos
 
 - Total de Funcionários
 - Tempo Médio de Experiência (anos)
